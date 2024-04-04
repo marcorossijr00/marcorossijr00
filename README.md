@@ -5,8 +5,3 @@
 
 -...also LOL is bad :)
 
-- if (black == white)
-    {print("loveislove")}
-  else
-    print("no")
-  return "no".
